@@ -1,7 +1,7 @@
 package com.shushu;
 import java.util.Scanner;
 
-/*
+/**
 判断年份是不是闰年
  */
 public class NumberSum {

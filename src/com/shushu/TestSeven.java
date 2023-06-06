@@ -1,7 +1,9 @@
 package com.shushu;
 
 
-//1-100之间所有不是7的倍数和不包含7的数字，并求和
+/**
+ * 1-100之间所有不是7的倍数和不包含7的数字，并求和
+ */
 public class TestSeven {
     public static void main(String[] args) {
         int sumCnt = 0;

@@ -9,7 +9,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class RandomInteger {
     public static void main(String[] args) {
-        int randomNum = ThreadLocalRandom.current().nextInt(3, 99+1);
+        int randomNum = ThreadLocalRandom.current().nextInt(0, 3+1);
         System.out.println(randomNum);
     }
 }

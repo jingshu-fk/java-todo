@@ -14,5 +14,7 @@ public class FloatCase {
         double a1 = 6.7;
         double b1 = 6.8;
         System.out.println(Double.compare(a1, b1) == 0);
+
+        System.out.println(Math.round(-1.5));
     }
 }
